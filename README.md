@@ -21,12 +21,19 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 ```
  git clone https://github.com/marileoncio/MsMakeup-api.git
 ```
-2. Acesse o diretório do projeto:
+2. Iniciando o Repositório
+```
+Iniciando o Repositório
+```
+3. Copiando o .env do exemplo
+```
+copy .env.exemple .env
+```
+4. Acesse o diretório do projeto:
 ```
 cd m'sMakeup-api
 ```
-
-3. Acessar o Visual Studio Code
+5. Acessar o Visual Studio Code
 ```
 code .
 ```
